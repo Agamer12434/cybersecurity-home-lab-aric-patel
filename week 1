@@ -1,1 +1,52 @@
 
+# Week 1 - Cybersecurity Lab Setup
+
+## Goal
+Build a cybersecurity home lab to learn Linux, networking, and security tools before starting college.
+
+## Hardware
+- Windows 11
+- Intel i5 Processor
+- 16 GB RAM
+
+## Software Installed
+- VirtualBox
+- Ubuntu Linux
+
+## Linux Commands Learned
+
+### pwd
+Displays the current working directory.
+
+### ls
+Lists files and folders.
+
+### mkdir
+Creates a directory.
+
+### cd
+Changes directories.
+
+### touch
+Creates a file.
+
+### cat
+Displays file contents.
+
+## Activities Completed
+- Installed VirtualBox
+- Created Ubuntu virtual machine
+- Learned basic Linux commands
+- Updated Ubuntu
+- Installed Git
+
+## Challenges
+I initially had trouble booting Ubuntu because of a VirtualBox graphics issue. I fixed it by changing the display settings and disabling 3D acceleration.
+
+## What I Learned
+This week I learned how to create and manage a virtual machine, navigate Linux using the terminal, and organize files using basic Linux commands.
+
+## Next Week
+- Install Kali Linux
+- Learn networking basics
+- Run my first Nmap scan
